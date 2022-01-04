@@ -1,2 +1,2 @@
-# new-calc
-new-calc
+# new-calc-js
+ new calc
